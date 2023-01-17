@@ -1,6 +1,5 @@
 import random
 import re
-import sys
 def input_answer(history):
     input_format_flag = False
     first_input = True
